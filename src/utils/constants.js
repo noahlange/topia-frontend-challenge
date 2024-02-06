@@ -49,3 +49,6 @@ export const USER_LIST = {
     y: 1200,
   },
 };
+
+export const AVATAR_HEIGHT = 125;
+export const AVATAR_WIDTH = 50;
